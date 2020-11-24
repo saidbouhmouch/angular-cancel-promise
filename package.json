@@ -1,5 +1,5 @@
 {
-  "name": "angular-cancel-http-promise",
+  "name": "angular-cancel-promise",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
